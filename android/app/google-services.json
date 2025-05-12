@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390812096152",
+    "project_id": "expo-module-core-bug",
+    "storage_bucket": "expo-module-core-bug.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390812096152:android:ac5d132ae1be849d96a2ed",
+        "android_client_info": {
+          "package_name": "com.rybaier.expomodulecorebug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiLcTVh3EAmjeR5p6n9_i-5ZAhMk4MfOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
